@@ -11,7 +11,7 @@ class LayarKacaPlugin : Plugin() {
         // directly.
         registerMainAPI(LayarKaca())
         registerExtractorAPI(Emturbovid())
-        registerExtractorAPI(Furher())
+
         registerExtractorAPI(Hownetwork())
     }
 }
