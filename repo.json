@@ -1,0 +1,8 @@
+{
+    "name": "MyStuffv2 Repo",
+    "description": "MyStuffv2 Cloudstream Repo",
+    "manifestVersion": 1,
+    "pluginLists": [
+        "https://raw.githubusercontent.com/IntellQueue/MyStuffv2/main/plugins.json"
+    ]
+}
